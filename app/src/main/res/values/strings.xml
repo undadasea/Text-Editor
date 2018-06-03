@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TextEditor</string>
+    <string name="action_open">Открыть</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_settings">Настройки</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="pref_size">Размер</string>
+    <string name="pref_style">Стиль</string>
+    <string name="pref_style_regular">Нормальный</string>
+    <string name="pref_style_bold">Полужирный</string>
+    <string name="pref_style_italic">Курсив</string>
+    <string name="pref_background">Тема</string>
+    <string name="pref_darkbackground">Темная</string>
+    <string name="pref_paperbackground">Серая</string>
+    <string name="pref_lightbackground">Светлая</string>
+    <string name="choose_file">Файл</string>
+    <string name="action_new">Новый</string>
+</resources>
